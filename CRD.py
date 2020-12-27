@@ -3,8 +3,6 @@ from threading import *
 import time
 import json
 
-#https://github.com/sriharsha9598/CRD-operations-of-a-file-based-key-value-data-store
-
 f=open("data.json",)
 d=json.load(f)
 
